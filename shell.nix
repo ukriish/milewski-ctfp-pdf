@@ -30,11 +30,13 @@ mkShell {
         subfiles
         lettrine
         upquote
-
         libertine
         mweights
         fontaxes
-
+        mdframed
+        needspace
+        xifthen
+        ifmtarg
         scheme-medium
         listings
         minted
